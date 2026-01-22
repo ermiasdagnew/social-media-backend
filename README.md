@@ -1,1 +1,1 @@
-# social-media-backend
+# Social Media Feed Backend API
